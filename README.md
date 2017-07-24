@@ -1,4 +1,4 @@
-# Homebrew Core
+# Homebrew Core Bla Bla
 Core formulae for the Homebrew package manager.
 
 ## How do I install these formulae?
